@@ -24,12 +24,22 @@ Xtest_mel.npy, ytest_mel.npy – These files contain the Mel spectrogram represe
 
 # Class Distribution
 0 air_conditioner 12.6%
+
 1 car_horn 3.54%
+
 2 children_playing 12.53%
+
 3 dog_bark 9.42%
+
 4 drilling 10.93%
+
 5 engine_idling 12.98%
+
 6 gun_shot 1.49%
+
 7 jackhammer 11.85%
+
 8 siren 12.03%
+
 9 street_music 12.61%
+
